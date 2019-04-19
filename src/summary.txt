@@ -1,0 +1,40 @@
+================================ Summary Report ================================
+Date: 2019-04-14
+Time: 16:53
+File name: C:\data\summary.txt
+
+************************* Individual Data File Summary *************************
+Total number of Data files: 3
+Data file: C:\Users\Hashim\Desktop\PyProject\abc_bank\data\data1.csv
+	Total # of records: 3
+	Owner(s) of account who has the minimum balance:
+		Terry Smith
+	Owner(s) of account who has the maximum balance:
+		Tom Smith
+		Mike William
+
+Data file: C:\Users\Hashim\Desktop\PyProject\abc_bank\data\data2.csv
+	Total # of records: 3
+	Owner(s) of account who has the minimum balance:
+		Mona William
+	Owner(s) of account who has the maximum balance:
+		Ajay Patel
+
+Data file: C:\Users\Hashim\Desktop\PyProject\abc_bank\data\data3.csv
+	Total # of records: 3
+	Owner(s) of account who has the minimum balance:
+		Amin Patel
+	Owner(s) of account who has the maximum balance:
+		Kevin William
+
+******************************* ABC Bank Summary *******************************
+	Owner(s) of account who has the minimum balance:
+		Mona William
+	Owner(s) of account who has the maximum balance:
+		Kevin William
+
+	Total number of Savings account(s): 5
+	Total number of Checking account(s):4
+	Total amount in Savings account: $29,200
+	Total amount in Checking account: $12,200
+================================================================================

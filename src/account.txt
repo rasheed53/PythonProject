@@ -1,0 +1,9 @@
+1,tom,smith,2000,saving
+2,terry,smith,1000,checking
+3,mike,William,2000,saving
+1,tim,smith,2000,saving
+2,ajay,patel,10000,checking
+3,mona,William,200,checking
+1,tim,smith,2000,saving
+2,amin,patel,1000,checking
+3,kevin,William,21200,saving
